@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rin GYles - Development Page</title>
+    <!-- Link to your CSS file  -->
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <!-- Navigation Bar  -->
+    <nav>
+        <ul>
+            <li><a href="Homepage.html">Home</a></li>
+            <li><a href="professional.html">Professional</a></li>
+            <li><a href="personality.html">Personality</a></li>
+            <li><a href="development.html">Personal Development</a></li>
+            <li><a href="Story.html">Story Board</a></li>
+            <li><a href="reference.html">Reference Page</a></li>
+            <li><a href="mailto:ringyles@gmail.com?cc=Ringyles@gmail.com&subject=More information">Contact Us</a></li>
+            <li><a href="https://www.instagram.com/r.x.i.x.n/">Instagram</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Personal Development Section -->
+        <section id="development">
+            <h1>Personal Development</h1>
+
+            <!-- Summary and Reflection -->
+            <p>I've been reading chapters 4 to 7 of "Twelve Pillars" by Jim Rohn and Chris Widener. These chapters have provided valuable insights 
+                into personal development and growth. Here's a summary and reflection:</p>
+            
+            <p><strong>Chapter 4 - The Gift of Learning:</strong> This chapter emphasizes the importance of lifelong learning. 
+                It highlights that personal development is an ongoing journey, and the more we learn, the more we grow. 
+                I resonate with this message as I believe in the power of continuous self-improvement. To apply this to my life,
+                 I will make a commitment to dedicate time each day to learning something new, whether it's through books, courses, or real-life experiences.</p>
+            
+            <p><strong>Chapter 5 - The Gift of Change:</strong> Change is an inevitable part of life, and this chapter discusses the necessity of embracing it 
+                rather than fearing it. It teaches that change can lead to growth and improvement if we approach it with a positive mindset. I'll apply this by 
+                being more open to change in my life, whether it's in my personal relationships or my academic pursuits. I'll see change as an opportunity for personal development.</p>
+            
+            <p><strong>Chapter 6 - The Gift of Problems:</strong> Problems are a part of everyone's life, but how we handle them determines our success. This chapter teaches that 
+                problems are opportunities for growth and that successful people view them as challenges to overcome. I'll apply this by adopting a problem-solving mindset, 
+                focusing on solutions rather than dwelling on the issues themselves.</p>
+            
+            <p><strong>Chapter 7 - The Gift of Family:</strong>Family plays a crucial role in our lives, and this chapter highlights the significance of maintaining strong family 
+                connections. It discusses the importance of investing time and effort in our relationships with family members. I'll apply this by prioritizing quality time with 
+                my family and nurturing those relationships, knowing that a strong family foundation can provide invaluable support in my personal and academic life.</p>
+        
+
+            <!-- Degree and Skills Section -->
+            <section>
+                <h2>Degree and Skills</h2>
+
+                <p><strong>Degree:</strong> I am working towards a Bachelor of sports science.</p>
+
+                <p><strong>Top Three Skills Acquired:</strong></p>
+                <ol>
+                    <li><b>Knowledge of Human Anatomy and Physiology:</b> Sports Science programs provide a deep understanding of the human body, including its muscular, skeletal, 
+                        cardiovascular, and respiratory systems. Students learn how these systems function during exercise, which is essential for designing effective training 
+                        programs and preventing injuries.</li>
+                    
+                    <li><b>Sports Performance Analysis:</b> Students acquire skills in analyzing sports performance, including techniques for assessing athletes' strengths and 
+                        weaknesses. This skill involves using tools and technology to evaluate factors such as biomechanics, nutrition, and training methods to enhance athletic performance.</li>
+                    
+                    <li><b>xercise Prescription and Training:</b> Sports Science programs teach students how to create tailored exercise programs for individuals and athletes. 
+                        This skill includes designing fitness routines, considering injury prevention, and understanding the principles of periodization to optimize training over time.</li>
+                </ol>
+            </section>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 Rin Gyles</p>
+    </footer>
+</body>
+</html>
